@@ -11,8 +11,8 @@ During installation process you will need:
     
     **Note!** Version of npm above 3 is required
 
-1. Download and unpack the latest version of Aurora Files into your installation root directory (currently it's version 0.5.0)
-`https://github.com/afterlogic/aurora-files/archive/0.5.0.zip`
+1. Clone of Aurora Platform into your installation root directory
+`git clone https://github.com/afterlogic/aurora-platform/archive/master.zip INSTALL_DIR_NAME`
 
 2. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
@@ -45,7 +45,7 @@ During installation process you will need:
   
 7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
 
-8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/aurora-files/configuration).
+8. Upon installing the product, you'll need to configure your installation. Use instruction from any product of Aurora family, for example, [configuration of Aurora Files](https://afterlogic.com/docs/aurora-files/configuration).
 
 
 **IMPORTANT:**
