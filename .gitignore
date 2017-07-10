@@ -3,6 +3,7 @@
 /node_modules
 /vendor
 /data
+/build/docs/docs
 /tenants
 /modules
 /static
