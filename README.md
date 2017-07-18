@@ -12,7 +12,7 @@ During installation process you will need:
     **Note!** Version of npm above 3 is required
 
 1. Clone of Aurora Platform into your installation root directory
-`git clone https://github.com/afterlogic/aurora-platform/archive/master.zip INSTALL_DIR_NAME`
+`git clone https://github.com/afterlogic/aurora-platform.git INSTALL_DIR_NAME`
 
 2. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
@@ -40,7 +40,7 @@ During installation process you will need:
     ```
 
     ```bash
-    gulp js:min
+    gulp js:build
     ```
   
 7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
