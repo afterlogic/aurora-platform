@@ -19,6 +19,7 @@
 		"afterlogic/aurora-module-team-contacts": "dev-master",
 		"afterlogic/aurora-module-core": "dev-master",
 		"afterlogic/aurora-module-webclient-core": "dev-master",
+		"afterlogic/aurora-module-mobile-webclient-core": "dev-master",
 		"afterlogic/aurora-module-webclient-core-jscrypto-plugin": "dev-master",
 		"afterlogic/aurora-module-dav": "dev-master",
 		"afterlogic/aurora-module-dav-contacts": "dev-master",
