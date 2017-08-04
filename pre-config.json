@@ -3,5 +3,8 @@
 		"CacheTemplates": false
 	},
 	"modules": {
+		"DemoModePlugin": {
+			"Disabled": true
+		}
 	}
 }
