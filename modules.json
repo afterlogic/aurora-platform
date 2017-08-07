@@ -54,7 +54,7 @@
 		"afterlogic/aurora-module-mobile-sync": "dev-master",
 		"afterlogic/aurora-module-webclient-mobile-sync": "dev-master",
 		"afterlogic/aurora-module-webclient-oauth-integrator": "dev-master",
-		"afterlogic/aurora-module-mobile-webclient-oauth-integrator": "dev-master",
+		"afterlogic/aurora-module-webclient-external-clients-login-form": "dev-master",
 		"afterlogic/aurora-module-webclient-openpgp": "dev-master",
 		"afterlogic/aurora-module-webclient-outlook-sync": "dev-master",
 		"afterlogic/aurora-module-webclient-phone": "dev-master",
