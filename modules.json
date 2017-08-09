@@ -33,6 +33,7 @@
 		"afterlogic/aurora-module-googledrive": "dev-master",
 		"afterlogic/aurora-module-files": "dev-master",
 		"afterlogic/aurora-module-webclient-files": "dev-master",
+		"afterlogic/aurora-module-mobile-webclient-files": "dev-master",
 		"afterlogic/aurora-module-webclient-files-tableview-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-files-cut-copy-paste-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-google-auth": "dev-master",
