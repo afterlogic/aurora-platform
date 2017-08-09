@@ -1,6 +1,7 @@
 {
 	"system": {
-		"CacheTemplates": false
+		"CacheTemplates": false,
+		"UseAppMinJs": false
 	},
 	"modules": {
 		"DemoModePlugin": {
