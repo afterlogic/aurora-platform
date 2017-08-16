@@ -42,6 +42,7 @@
 		"afterlogic/aurora-module-ios": "dev-master",
 		"afterlogic/aurora-module-mail": "dev-master",
 		"afterlogic/aurora-module-licensing": "dev-master",
+		"afterlogic/aurora-module-webclient-licensing": "dev-master",
 		"afterlogic/aurora-module-webclient-mail-sensitivity-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-mail": "dev-master",
 		"afterlogic/aurora-module-mobile-webclient-mail": "dev-master",
