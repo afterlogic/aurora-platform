@@ -46,7 +46,6 @@
 		"afterlogic/aurora-module-webclient-mail-sensitivity-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-mail": "dev-master",
 		"afterlogic/aurora-module-mobile-webclient-mail": "dev-master",
-		"afterlogic/aurora-module-webclient-mail-auth": "dev-master",
 		"afterlogic/aurora-module-webclient-mail-tnef-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-mail-zip-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-notes-plugin": "dev-master",
