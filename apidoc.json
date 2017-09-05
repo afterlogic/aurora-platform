@@ -1,0 +1,14 @@
+{
+  "name": "Afterlogic Aurora Platform Web API Reference",
+  "version": "0.1.0",
+  "description": "",
+  "url" : "https://afterlogic.com/",
+  "sampleUrl" : "https://afterlogic.com/",
+  "template": {
+	  "forceLanguage": "en"
+  },
+  "header": {
+    "title": "Overview",
+    "filename": "../../apidoc-overview.md"
+  }
+}
