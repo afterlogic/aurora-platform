@@ -3,8 +3,8 @@ Aurora Files is an open-source file storage platform, built to give you an abili
 
 ![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/aurora-files/aurora-files-folder-list.png)
 
-## Usefull links
-- More informaition at [Aurora File home page](https://afterlogic.org/aurora-files)
+## Useful links
+- More information at [Aurora File home page](https://afterlogic.org/aurora-files)
 - [Aurora Files live demo](https://aurora-files.afterlogic.com/)
 - [Main documentation](https://afterlogic.com/docs/aurora-files/)
 - [Github repository](https://github.com/afterlogic/aurora-files)
