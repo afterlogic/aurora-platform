@@ -18,4 +18,5 @@
 
 include_once 'system/autoload.php';
 
+\Aurora\System\Application::DebugMode(true);
 \Aurora\System\Application::Start();
