@@ -6,8 +6,8 @@ Aurora Platform is an open-source solution for creation collaboration web apps, 
 ## Useful links
 - More information about producs family: 
     - [Aurora File home page](https://afterlogic.org/aurora-files)
-	- [Webmail Lite 8 home page](https://afterlogic.org/webmail-lite-8)
-	- [Webmail Pro 8 home page](https://afterlogic.com/webmail-pro-8)(comming soon)
+	- [WebMail Lite 8 home page](https://afterlogic.org/webmail-lite-8)
+	- [WebMail Pro 8 home page](https://afterlogic.com/webmail-pro-8)(comming soon)
 - [Github repository](https://github.com/afterlogic/aurora-platform)
 - [Central issue tracker for the Aurora products family](https://github.com/afterlogic/aurora-platform/issues)
 
