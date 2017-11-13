@@ -30,6 +30,7 @@ include_once 'system/autoload.php';
 });
 
 $sBaseUri = \substr($sRequestUri, 0, \strpos($sRequestUri,'/'.$sCurrentFile)).'/'.$sCurrentFile.'/';
+$sBaseUri = '/';
 	
 \Afterlogic\DAV\Server::getInstance($sBaseUri)->exec();
 
