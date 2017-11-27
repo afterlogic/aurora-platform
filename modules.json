@@ -85,6 +85,9 @@
 		"afterlogic/aurora-module-webclient-afterlogic-downloads": "dev-master",
 		"afterlogic/aurora-module-mail-auth-cpanel": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-cpanel-plugin": "dev-master",
-		"afterlogic/aurora-module-tasks": "dev-master"
+		"afterlogic/aurora-module-tasks": "dev-master",
+		"afterlogic/aurora-module-sale-objects": "dev-master",
+		"afterlogic/aurora-module-sales": "dev-master",
+		"afterlogic//aurora-module-sales-webclient": "dev-master"
 	}
 }
