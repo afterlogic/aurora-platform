@@ -88,6 +88,6 @@
 		"afterlogic/aurora-module-tasks": "dev-master",
 		"afterlogic/aurora-module-sale-objects": "dev-master",
 		"afterlogic/aurora-module-sales": "dev-master",
-		"afterlogic//aurora-module-sales-webclient": "dev-master"
+		"afterlogic/aurora-module-sales-webclient": "dev-master"
 	}
 }
