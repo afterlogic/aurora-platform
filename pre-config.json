@@ -6,6 +6,10 @@
 	"modules": {
 		"DemoModePlugin": {
 			"Disabled": true
+		},
+		"CoreWebclient": {
+			"HeaderModulesOrder": ["mail", "contacts", "files", "calendar", "afterlogic-downloads-webclient", "iframe-app-webclient", "simplechat", "tasks"],
+			"EntryModule": "mail",
+			"AllowMobile": true
 		}
-	}
 }
