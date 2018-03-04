@@ -92,6 +92,7 @@
 		"afterlogic/aurora-module-contact-objects": "dev-master",
 		"afterlogic/aurora-module-personalfiles": "dev-master",
 		"afterlogic/aurora-module-chat": "dev-master",
-		"afterlogic/aurora-module-chat-link-preview-plugin": "dev-master"
+		"afterlogic/aurora-module-chat-link-preview-plugin": "dev-master",
+		"afterlogic/aurora-module-chat-command-line-plugin": "dev-master"
 	}
 }
