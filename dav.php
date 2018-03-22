@@ -21,7 +21,6 @@ $sRequestUri = empty($_SERVER['REQUEST_URI']) ? '' : \trim($_SERVER['REQUEST_URI
 
 include_once 'system/autoload.php';
 
-\Aurora\System\Api::GrantAdminPrivileges();
 \Aurora\System\Api::Init();
 
 \set_time_limit(3000);
@@ -30,7 +29,7 @@ include_once 'system/autoload.php';
 });
 
 $sBaseUri = \substr($sRequestUri, 0, \strpos($sRequestUri,'/'.$sCurrentFile)).'/'.$sCurrentFile.'/';
-$sBaseUri = '/';
+//$sBaseUri = '/';
 	
 \Afterlogic\DAV\Server::getInstance($sBaseUri)->exec();
 
