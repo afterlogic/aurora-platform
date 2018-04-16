@@ -93,6 +93,12 @@
 		"afterlogic/aurora-module-personalfiles": "dev-master",
 		"afterlogic/aurora-module-chat": "dev-master",
 		"afterlogic/aurora-module-chat-link-preview-plugin": "dev-master",
-		"afterlogic/aurora-module-chat-command-line-plugin": "dev-master"
+		"afterlogic/aurora-module-chat-command-line-plugin": "dev-master",
+		
+		"afterlogic/aurora-module-mail-change-password-hmailserver-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-iredmail-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-global-signature-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-hidden-recipient-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-bcc-to-sender-plugin": "dev-master"		
 	}
 }
