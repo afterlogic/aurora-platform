@@ -18,4 +18,4 @@
 
 include_once 'system/autoload.php';
 
-\Aurora\System\Application::Start();
+\Aurora\System\Application::Start('autodiscover');

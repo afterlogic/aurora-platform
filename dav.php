@@ -16,9 +16,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-$sCurrentFile = \basename(__FILE__);
-$sRequestUri = empty($_SERVER['REQUEST_URI']) ? '' : \trim($_SERVER['REQUEST_URI']);
-
 include_once 'system/autoload.php';
 
 \Aurora\System\Api::Init();
@@ -28,8 +25,5 @@ include_once 'system/autoload.php';
 	throw new \ErrorException($errstr, 0, $errno, $errfile, $errline);
 });
 
-$sBaseUri = \substr($sRequestUri, 0, \strpos($sRequestUri,'/'.$sCurrentFile)).'/'.$sCurrentFile.'/';
-//$sBaseUri = '/';
-	
-\Afterlogic\DAV\Server::getInstance($sBaseUri)->exec();
+\Afterlogic\DAV\Server::getInstance()->exec();
 
