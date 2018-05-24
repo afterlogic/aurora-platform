@@ -103,6 +103,7 @@
 		"afterlogic/aurora-module-mail-bcc-to-sender-plugin": "dev-master",
 		"afterlogic/aurora-module-activeserver": "dev-master",
 		"afterlogic/aurora-module-autodiscover": "dev-master",
-		"afterlogic/aurora-module-corporate-calendar": "dev-master"
+		"afterlogic/aurora-module-corporate-calendar": "dev-master",
+		"afterlogic/aurora-module-calendar-meetings-plugin": "dev-master"
 	}
 }
