@@ -25,9 +25,6 @@
 		"afterlogic/aurora-module-dav": "dev-master",
 		"afterlogic/aurora-module-dav-contacts": "dev-master",
 		"afterlogic/aurora-module-demo-mode-plugin": "dev-master",
-		"afterlogic/aurora-module-dropbox": "dev-master",
-		"afterlogic/aurora-module-webclient-dropbox-auth": "dev-master",
-		"afterlogic/aurora-module-dropbox-filestorage": "dev-master",
 		"afterlogic/aurora-module-facebook": "dev-master",
 		"afterlogic/aurora-module-webclient-facebook-auth": "dev-master",
 		"afterlogic/aurora-module-google": "dev-master",
@@ -104,6 +101,7 @@
 		"afterlogic/aurora-module-activeserver": "dev-master",
 		"afterlogic/aurora-module-autodiscover": "dev-master",
 		"afterlogic/aurora-module-corporate-calendar": "dev-master",
-		"afterlogic/aurora-module-calendar-meetings-plugin": "dev-master"
+		"afterlogic/aurora-module-calendar-meetings-plugin": "dev-master",
+		"afterlogic/aurora-module-mailsuite": "dev-master"
 	}
 }
