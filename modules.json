@@ -102,6 +102,7 @@
 		"afterlogic/aurora-module-autodiscover": "dev-master",
 		"afterlogic/aurora-module-corporate-calendar": "dev-master",
 		"afterlogic/aurora-module-calendar-meetings-plugin": "dev-master",
-		"afterlogic/aurora-module-mailsuite": "dev-master"
+		"afterlogic/aurora-module-mailsuite": "dev-master",
+		"afterlogic/aurora-module-webclient-mailsuite": "dev-master"
 	}
 }
