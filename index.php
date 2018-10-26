@@ -16,6 +16,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
+if (isset($_GET['dbg']) || isset($_POST['dbg']))
+{
+	ini_set('display_errors', 1);
+	ini_set('display_startup_errors', 1);
+	error_reporting(E_ALL);
+}
 include_once 'system/autoload.php';
 
 \Aurora\System\Application::Start();
