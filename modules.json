@@ -106,6 +106,7 @@
 		"afterlogic/aurora-module-corporate-calendar": "dev-master",
 		"afterlogic/aurora-module-calendar-meetings-plugin": "dev-master",
 		"afterlogic/aurora-module-mta-connector": "dev-master",
-		"afterlogic/aurora-module-webclient-mta-connector": "dev-master"
+		"afterlogic/aurora-module-webclient-mta-connector": "dev-master",
+		"afterlogic/aurora-module-two-factor-auth": "dev-master"
 	}
 }
