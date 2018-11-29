@@ -9,7 +9,8 @@
 		},
 		"CoreWebclient": {
 			"HeaderModulesOrder": ["mail", "contacts", "files", "calendar", "afterlogic-downloads-webclient", "iframe-app-webclient", "simplechat", "tasks"],
-			"EntryModule": "mail",
+			"DefaultAnonymScreenHash": "login",
+			"DefaultUserScreenHash": "mail",
 			"AllowMobile": true
 		}
 	}
