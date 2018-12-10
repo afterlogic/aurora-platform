@@ -6,6 +6,7 @@
 		"afterlogic/aurora-framework": "dev-master",
 		"afterlogic/aurora-dev-tools": "dev-master",
 		
+		"afterlogic/aurora-module-webclient-branding": "dev-master",
 		"afterlogic/aurora-module-admin-auth": "dev-master",
 		"afterlogic/aurora-module-webclient-adminpanel": "dev-master",
 		"afterlogic/aurora-module-webclient-logs-viewer": "dev-master",
