@@ -117,6 +117,7 @@
 		"afterlogic/aurora-module-webclient-mail-signup": "dev-master",
 		"afterlogic/aurora-module-shared-files": "dev-master",
 		"afterlogic/aurora-module-override-user-settings": "dev-master",
-		"afterlogic/aurora-module-mail-domains": "dev-master"
+		"afterlogic/aurora-module-mail-domains": "dev-master",
+		"afterlogic/aurora-module-digitalocean-filestorage": "dev-master"
 	}
 }
