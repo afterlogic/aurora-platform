@@ -100,6 +100,7 @@
 		
 		"afterlogic/aurora-module-mail-change-password-hmailserver-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-iredmail-plugin": "dev-master",
+		"afterlogic/aurora-module-change-password-in-mail-server-database-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-global-signature-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-hidden-recipient-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-bcc-to-sender-plugin": "dev-master",
