@@ -120,6 +120,7 @@
 		"afterlogic/aurora-module-mail-domains": "dev-master",
 		"afterlogic/aurora-module-s3-filestorage": "dev-master",
 		"afterlogic/aurora-module-core-user-groups": "dev-master",
+		"afterlogic/aurora-module-core-user-groups-limits": "dev-master",
 		"afterlogic/aurora-module-core-user-groups-capabilities": "dev-master"
 	}
 }
