@@ -84,6 +84,7 @@
 		"afterlogic/aurora-module-webclient-iframe-app": "dev-master",
 		"afterlogic/aurora-module-mail-multi-accounts-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-poppassd-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-poppassd-extended-plugin": "dev-master",
 		"afterlogic/aurora-module-office-document-viewer": "dev-master",
 		"afterlogic/aurora-module-webclient-file-viewer-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-afterlogic-downloads": "dev-master",
