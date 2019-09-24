@@ -124,6 +124,7 @@
 		"afterlogic/aurora-module-core-user-groups-limits": "dev-master",
 		"afterlogic/aurora-module-core-user-groups-capabilities": "dev-master",
 		"afterlogic/aurora-module-mail-master-password": "dev-master",
-		"afterlogic/aurora-module-webclient-mail-login-form": "dev-master"
+		"afterlogic/aurora-module-webclient-mail-login-form": "dev-master",
+		"afterlogic/aurora-module-webclient-openpgp-files": "dev-master"
 	}
 }
