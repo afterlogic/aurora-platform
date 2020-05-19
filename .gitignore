@@ -14,3 +14,4 @@
 /composer.phar
 /composer.lock
 /_composer_cache
+/test/
