@@ -127,6 +127,7 @@
 		"afterlogic/aurora-module-webclient-mail-login-form": "dev-master",
 		"afterlogic/aurora-module-webclient-openpgp-files": "dev-master",
 		"afterlogic/aurora-module-mobile-webclient-mail-login-form": "dev-master",
-		"afterlogic/aurora-module-activity-history": "dev-master"
+		"afterlogic/aurora-module-activity-history": "dev-master",
+		"afterlogic/aurora-module-webclient-mobile-apps": "dev-master"
 	}
 }
