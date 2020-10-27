@@ -77,7 +77,7 @@
 		"afterlogic/aurora-module-mobile-webclient-standard-login-form": "dev-master",
 		"afterlogic/aurora-module-webclient-standard-register-form": "dev-master",
 		"afterlogic/aurora-module-mobile-webclient-standard-register-form": "dev-master",
-		"afterlogic/aurora-module-webclient-standard-reset-password": "dev-main",
+		"afterlogic/aurora-module-standard-reset-password": "dev-main",
 		"afterlogic/aurora-module-twilio": "dev-master",
 		"afterlogic/aurora-module-eav-object-viewer": "dev-master",
 		"afterlogic/aurora-module-oembed-files": "dev-master",
