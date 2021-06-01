@@ -11,7 +11,5 @@
 /dev
 /build/docs/docs
 /npm-debug.log
-/composer.phar
-/composer.lock
 /_composer_cache
 /test/
