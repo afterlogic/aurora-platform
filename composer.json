@@ -1,12 +1,16 @@
 {
 	"config": {
-		"minimum-stability": "dev"
+		"minimum-stability": "dev",
+		"preferred-install": {
+			"afterlogic/*": "source"
+		},
+		"platform-check": false
 	},
 	"repositories": [
 		{"type": "composer", "url":"https://afterlogic.com/composer/"}
 	],
 	"require": {
-		"oomphinc/composer-installers-extender": "^1.0",
+		"oomphinc/composer-installers-extender": "^2.0",
 
 		"afterlogic/aurora-framework": "dev-master",
 		"afterlogic/aurora-dev-tools": "dev-master",
