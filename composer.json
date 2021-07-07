@@ -143,7 +143,8 @@
 		"afterlogic/aurora-module-mail-scheduled-messages": "dev-master",
 		"afterlogic/aurora-module-office-document-editor": "dev-master",
 		"afterlogic/aurora-module-mastodon-integrator": "dev-main",
-		"afterlogic/aurora-module-core-extender": "dev-master"
+		"afterlogic/aurora-module-core-extender": "dev-master",
+		"afterlogic/aurora-module-webclient-security-settings": "dev-main"
 	},
 	"scripts": {
        	"post-install-cmd": "@pre-config",
