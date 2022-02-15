@@ -4,7 +4,19 @@
 		"UseAppMinJs": false
 	},
 	"modules": {
+		"DavDataMigration": {
+			"Disabled": true
+		},
 		"DemoModePlugin": {
+			"Disabled": true
+		},
+		"MailCustomAccountSelectorWebclientPlugin": {
+			"Disabled": true
+		},
+		"S3CorporateFilestorage": {
+			"Disabled": true
+		},
+		"S3Filestorage": {
 			"Disabled": true
 		},
 		"CoreWebclient": {

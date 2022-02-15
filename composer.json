@@ -135,7 +135,8 @@
 		"afterlogic/aurora-module-core-extender": "dev-master",
 		"afterlogic/aurora-module-webclient-security-settings": "dev-master",
 		"afterlogic/aurora-module-ip-allow-list": "dev-master",
-		"afterlogic/aurora-module-webclient-rocketchat": "dev-master"
+		"afterlogic/aurora-module-webclient-rocketchat": "dev-master",
+		"afterlogic/aurora-module-webclient-mail-custom-account-selector-plugin": "dev-master"
 	},
 	"scripts": {
        	"post-install-cmd": "@pre-config",
