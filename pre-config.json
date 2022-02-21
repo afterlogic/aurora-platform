@@ -13,6 +13,9 @@
 		"MailCustomAccountSelectorWebclientPlugin": {
 			"Disabled": true
 		},
+		"MailCustomEditFolderWebclientPlugin": {
+			"Disabled": true
+		},
 		"S3CorporateFilestorage": {
 			"Disabled": true
 		},
