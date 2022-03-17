@@ -137,11 +137,12 @@
 		"afterlogic/aurora-module-ip-allow-list": "dev-master",
 		"afterlogic/aurora-module-webclient-rocketchat": "dev-master",
 		"afterlogic/aurora-module-webclient-mail-custom-account-selector-plugin": "dev-master",
-		"afterlogic/aurora-module-webclient-mail-custom-edit-folder-plugin": "dev-master"
+		"afterlogic/aurora-module-webclient-mail-custom-edit-folder-plugin": "dev-master",
+		"afterlogic/aurora-module-webclient-mail-move-messages-between-accounts": "dev-master"
 	},
 	"scripts": {
-       	"post-install-cmd": "@pre-config",
-       	"post-update-cmd": "@pre-config",
+		"post-install-cmd": "@pre-config",
+		"post-update-cmd": "@pre-config",
 		"pre-config": [
 			"[ -d data ] || mkdir data",
 			"Aurora\\Installer::preConfigSafe"

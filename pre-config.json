@@ -16,6 +16,12 @@
 		"MailCustomEditFolderWebclientPlugin": {
 			"Disabled": true
 		},
+		"MailMoveMessagesBetweenAccountsWebclient": {
+			"Disabled": true
+		},
+		"SessionTimeoutWebclient": {
+			"Disabled": true
+		},
 		"S3CorporateFilestorage": {
 			"Disabled": true
 		},
