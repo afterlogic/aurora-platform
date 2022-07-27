@@ -138,7 +138,9 @@
 		"afterlogic/aurora-module-webclient-rocketchat": "dev-master",
 		"afterlogic/aurora-module-webclient-mail-custom-account-selector-plugin": "dev-master",
 		"afterlogic/aurora-module-webclient-mail-custom-edit-folder-plugin": "dev-master",
-		"afterlogic/aurora-module-webclient-mail-move-messages-between-accounts": "dev-master"
+		"afterlogic/aurora-module-webclient-mail-move-messages-between-accounts": "dev-master",
+		"afterlogic/aurora-module-mail-domains-global-signature": "dev-master",
+		"afterlogic/aurora-module-mail-custom-sender-list-plugin": "dev-master"
 	},
 	"scripts": {
 		"post-install-cmd": "@pre-config",
