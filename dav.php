@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-include_once 'system/autoload.php';
+require_once 'system/autoload.php';
 
 \Aurora\System\Api::Init();
 
@@ -25,5 +25,10 @@ include_once 'system/autoload.php';
 	throw new \ErrorException($errstr, 0, $errno, $errfile, $errline);
 });
 
-\Afterlogic\DAV\Server::getInstance()->exec();
+// CApi::$bUseDbLog = false;
 
+$server = \Afterlogic\DAV\Server::getInstance();
+$server->setBaseUri(
+	str_replace($_SERVER['DOCUMENT_ROOT'], '', $_SERVER['SCRIPT_FILENAME'])
+);
+$server->exec();
