@@ -20,15 +20,4 @@ require_once 'system/autoload.php';
 
 \Aurora\System\Api::Init();
 
-\set_time_limit(3000);
-\set_error_handler(function ($errno, $errstr, $errfile, $errline) {
-	throw new \ErrorException($errstr, 0, $errno, $errfile, $errline);
-});
-
-// CApi::$bUseDbLog = false;
-
-$server = \Afterlogic\DAV\Server::getInstance();
-$server->setBaseUri(
-	str_replace($_SERVER['DOCUMENT_ROOT'], '', $_SERVER['SCRIPT_FILENAME'])
-);
-$server->exec();
+\Afterlogic\DAV\Server::getInstance()->exec();
