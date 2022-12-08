@@ -16,8 +16,4 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
 
-require_once 'system/autoload.php';
-
-\Aurora\System\Api::Init();
-
-\Afterlogic\DAV\Server::getInstance()->exec();
+include 'system/dav/server.php';
