@@ -1,0 +1,8 @@
+/adminpanel
+/data
+/dev
+/modules/*/js
+/node_modules
+/static
+/vendor
+.eslintrc.js
