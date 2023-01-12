@@ -7,4 +7,5 @@ parameters:
 	excludePaths:
 		- modules/OAuthIntegratorWebclient/Classes/OAuthClient
 		- modules/TwoFactorAuth/Classes/WebAuthn
+		- modules/AdminPanelWebclient/vue/node_modules
 
