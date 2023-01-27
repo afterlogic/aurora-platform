@@ -15,3 +15,4 @@
 /_composer_cache
 /test/
 /adminpanel
+.php-cs-fixer.cache
