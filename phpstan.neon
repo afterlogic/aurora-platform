@@ -8,4 +8,9 @@ parameters:
 		- modules/OAuthIntegratorWebclient/Classes/OAuthClient
 		- modules/TwoFactorAuth/Classes/WebAuthn
 		- modules/AdminPanelWebclient/vue/node_modules
+	universalObjectCratesClasses:
+		- Sabre\VObject\Component
+		- Sabre\VObject\Component\VCard
+		- \Sabre\VObject\Component\VEvent
+		- \Sabre\VObject\Component\VCalendar
 
