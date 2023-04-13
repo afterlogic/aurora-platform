@@ -167,7 +167,9 @@
 		"afterlogic/aurora-module-mail-domains-global-signature": "dev-master",
 		"afterlogic/aurora-module-mail-custom-sender-list-plugin": "dev-master",
 		"afterlogic/aurora-module-push-notificator": "dev-master",
-		"afterlogic/aurora-module-webclient-tenant-adminpanel": "dev-master"
+		"afterlogic/aurora-module-webclient-tenant-adminpanel": "dev-master",
+		"afterlogic/aurora-module-mail-signup-plesk": "dev-master",
+		"afterlogic/aurora-module-mail-signup-directadmin": "dev-master"
 	},
 	"scripts": {
 		"post-install-cmd": "@pre-config",
