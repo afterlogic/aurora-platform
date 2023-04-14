@@ -169,7 +169,15 @@
 		"afterlogic/aurora-module-push-notificator": "dev-master",
 		"afterlogic/aurora-module-webclient-tenant-adminpanel": "dev-master",
 		"afterlogic/aurora-module-mail-signup-plesk": "dev-master",
-		"afterlogic/aurora-module-mail-signup-directadmin": "dev-master"
+		"afterlogic/aurora-module-mail-signup-directadmin": "dev-master",
+		"afterlogic/aurora-module-mail-create-mail-server-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-ispconfig-plugin": "dev-master",
+		"afterlogic/aurora-module-ldap-change-password-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-ispmanager-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-directadmin-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-fastpanel-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-virtualmin-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-signup-fastpanel": "dev-master"
 	},
 	"scripts": {
 		"post-install-cmd": "@pre-config",
