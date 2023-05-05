@@ -33,6 +33,13 @@
 			"DefaultAnonymScreenHash": "login",
 			"DefaultUserScreenHash": "mail",
 			"AllowMobile": true
+		},
+		"LicensingWebclient": {
+			"TrialKeyLink": "<a href=\"https://afterlogic.com/get-trial-key?productId=afterlogic-aurora-corporate-9\" target=\"_blank\">https://afterlogic.com/get-trial-key?productId=afterlogic-aurora-corporate-9</a>",
+			"PermanentKeyLink": ""
+		},
+		"RecaptchaWebclientPlugin": {
+			"Disabled": true
 		}
 	}
 }
