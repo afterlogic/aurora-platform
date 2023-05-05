@@ -1,14 +1,17 @@
 parameters:
 	editorUrl: 'code -r -g %%file%%:%%line%%'
-	level: 0
+	level: 2
 	paths:
 		- modules
-		- system
 	excludePaths:
 		- modules/OAuthIntegratorWebclient/Classes/OAuthClient
 		- modules/TwoFactorAuth/Classes/WebAuthn
 		- modules/AdminPanelWebclient/vue/node_modules
+		- modules/CoreUserGroups
+		- modules/CoreUserGroupsLimits
+		- modules/Licensing/classes/KI.php
 	universalObjectCratesClasses:
+		- Sabre\VObject\Property
 		- Sabre\VObject\Component
 		- Sabre\VObject\Component\VCard
 		- \Sabre\VObject\Component\VEvent
