@@ -65,6 +65,8 @@
 		"afterlogic/aurora-module-dav-contacts": "dev-master",
 		"afterlogic/aurora-module-dav-data-migration": "dev-master",
 		"afterlogic/aurora-module-demo-mode-plugin": "dev-master",
+		"afterlogic/aurora-module-demo-mode-files-initializer-plugin": "dev-master",
+		"afterlogic/aurora-module-demo-mode-calendar-initializer-plugin": "dev-master",
 		"afterlogic/aurora-module-dropbox": "dev-master",
 		"afterlogic/aurora-module-webclient-dropbox-auth": "dev-master",
 		"afterlogic/aurora-module-dropbox-filestorage": "dev-master",
