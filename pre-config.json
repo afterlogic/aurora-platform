@@ -40,6 +40,9 @@
 		},
 		"RecaptchaWebclientPlugin": {
 			"Disabled": true
+		},
+		"CoreUserGroupsLimits": {
+			"Disabled": true
 		}
 	}
 }
