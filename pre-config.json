@@ -4,6 +4,9 @@
 		"UseAppMinJs": false
 	},
 	"modules": {
+		"Keycloak": {
+			"Disabled": true
+		},
 		"DavDataMigration": {
 			"Disabled": true
 		},

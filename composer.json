@@ -182,7 +182,8 @@
 		"afterlogic/aurora-module-mail-change-password-directadmin-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-fastpanel-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-virtualmin-plugin": "dev-master",
-		"afterlogic/aurora-module-mail-signup-fastpanel": "dev-master"
+		"afterlogic/aurora-module-mail-signup-fastpanel": "dev-master",
+		"afterlogic/aurora-module-keycloak": "dev-master"
 	},
 	"scripts": {
 		"post-install-cmd": "@pre-config",
