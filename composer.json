@@ -13,7 +13,7 @@
 	"repositories": [
 		{
 			"type": "package",
-            "package": {
+			"package": {
 				"name": "gufy/cpanel-php",
 				"version": "1.1.0",
 				"dist": {
@@ -126,7 +126,6 @@
 		"afterlogic/aurora-module-webclient-file-viewer-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-auth-cpanel": "dev-master",
 		"afterlogic/aurora-module-tasks": "dev-master",
-		"afterlogic/aurora-module-contact-objects": "dev-master",
 		"afterlogic/aurora-module-personalfiles": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-hmailserver-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-iredmail-plugin": "dev-master",
