@@ -182,6 +182,7 @@
 		"afterlogic/aurora-module-mail-change-password-fastpanel-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-virtualmin-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-signup-fastpanel": "dev-master",
+		"afterlogic/aurora-module-team-contacts-ldap": "dev-master",
 		"afterlogic/aurora-module-keycloak": "dev-master"
 	},
 	"scripts": {
