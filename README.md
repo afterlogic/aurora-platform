@@ -76,3 +76,4 @@ To enable automatic redirect from **http** to **https**, set **RedirectToHttps**
 
 All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/aurora-files/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly. 
 
+
