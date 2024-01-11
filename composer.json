@@ -65,7 +65,6 @@
 		"afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin": "dev-master",
 		"afterlogic/aurora-module-dav": "dev-master",
 		"afterlogic/aurora-module-dav-contacts": "dev-master",
-		"afterlogic/aurora-module-dav-data-migration": "dev-master",
 		"afterlogic/aurora-module-demo-mode-plugin": "dev-master",
 		"afterlogic/aurora-module-demo-mode-files-initializer-plugin": "dev-master",
 		"afterlogic/aurora-module-demo-mode-calendar-initializer-plugin": "dev-master",
