@@ -17,3 +17,4 @@
 /adminpanel
 .php-cs-fixer.cache
 .vscode/launch.json
+.editorconfig

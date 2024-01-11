@@ -6,3 +6,4 @@
 /static
 /vendor
 .eslintrc.js
+.editorconfig
