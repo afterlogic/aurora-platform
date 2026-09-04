@@ -117,6 +117,7 @@
 		"afterlogic/aurora-module-oembed-files": "dev-master",
 		"afterlogic/aurora-module-files-zipfolder": "dev-master",
 		"afterlogic/aurora-module-webclient-iframe-app": "dev-master",
+		"afterlogic/aurora-module-iframe-app-seafile": "dev-master",
 		"afterlogic/aurora-module-mail-multi-accounts-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-poppassd-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-poppassd-extended-plugin": "dev-master",
@@ -184,7 +185,8 @@
 		"afterlogic/aurora-module-team-contacts-ldap": "dev-master",
 		"afterlogic/aurora-module-keycloak": "dev-master",
 		"afterlogic/aurora-module-duo-2fa-integrator": "dev-master",
-		"afterlogic/aurora-module-mail-custom-spamcop-plugin": "dev-master"
+		"afterlogic/aurora-module-mail-custom-spamcop-plugin": "dev-master",
+		"afterlogic/aurora-module-webclient-cloudflare-turnstile-plugin": "dev-master"
 	},
 	"scripts": {
 		"post-install-cmd": "@pre-config",
