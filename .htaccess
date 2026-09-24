@@ -2,3 +2,14 @@
 	order allow,deny
 	deny from all
 </Files>
+
+# E2E test settings (.env.e2e) hold test account passwords
+<FilesMatch "^\.env">
+	<IfModule mod_authz_core.c>
+		Require all denied
+	</IfModule>
+	<IfModule !mod_authz_core.c>
+		order allow,deny
+		deny from all
+	</IfModule>
+</FilesMatch>

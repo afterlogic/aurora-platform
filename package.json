@@ -16,7 +16,8 @@
     "js:watch": "node -e \"require('./modules/CoreWebclient/gulp-tasks/javascript.js').default.watch()\"",
     "styles:build": "node -e \"require('./modules/CoreWebclient/gulp-tasks/styles.js').default.build()\"",
     "styles:cssonly": "node -e \"require('./modules/CoreWebclient/gulp-tasks/styles.js').default.cssonly()\"",
-    "styles:watch": "node -e \"require('./modules/CoreWebclient/gulp-tasks/styles.js').default.watch()\""
+    "styles:watch": "node -e \"require('./modules/CoreWebclient/gulp-tasks/styles.js').default.watch()\"",
+    "test:e2e:tui": "node modules/CoreWebclient/test/e2e/scripts/e2e-tui.js"
   },
   "dependencies": {
     "corewebclient": "file:./modules/CoreWebclient"

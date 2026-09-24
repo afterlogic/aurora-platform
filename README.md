@@ -74,4 +74,19 @@ To enable automatic redirect from **http** to **https**, set **RedirectToHttps**
 
 **Protecting data directory**
 
-All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/aurora-files/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly. 
+All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/aurora-files/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly.
+
+## E2E tests
+
+Desktop and mobile end-to-end tests (Playwright) are started from the installation root with an interactive launcher:
+
+```bash
+npm run test:e2e:tui
+```
+
+Pick the suite (desktop / mobile), the installation to test against, modules, browsers and the mode: run, run and email the report, or open Playwright UI. A suite that is not set up yet is shown as unavailable together with what is missing.
+
+Setup (Playwright browsers, `.env.e2e`, test accounts, email reports) is described in:
+
+* Desktop: [modules/CoreWebclient/test/e2e/README.md](modules/CoreWebclient/test/e2e/README.md)
+* Mobile: [modules/CoreMobileWebclient/vue-mobile/test/e2e/README.md](modules/CoreMobileWebclient/vue-mobile/test/e2e/README.md)
