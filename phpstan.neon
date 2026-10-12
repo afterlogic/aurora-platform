@@ -3,6 +3,7 @@ parameters:
 	level: 2
 	paths:
 		- modules
+		- system
 	excludePaths:
 		- modules/OAuthIntegratorWebclient/Classes/OAuthClient
 		- modules/TwoFactorAuth/Classes/WebAuthn
@@ -16,4 +17,8 @@ parameters:
 		- Sabre\VObject\Component\VCard
 		- \Sabre\VObject\Component\VEvent
 		- \Sabre\VObject\Component\VCalendar
-
+	# AU_APP_ROOT_PATH is define()d at runtime in system/Api.php; modules analysed on their own (pre-commit hook) don't see it
+	ignoreErrors:
+		-
+			message: '#Constant AU_APP_ROOT_PATH not found#'
+			reportUnmatched: false
